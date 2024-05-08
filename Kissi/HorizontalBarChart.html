@@ -49,14 +49,27 @@
             border-radius: 8px;
             pointer-events: none;
         }
+
+        /* Table styles */
+        table {
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
     </style>
 </head>
 <body>
     <h3>TOP 10 CAUSES OF DEATH</h3>
     <p>Name: SOLOMON AGYIRI KISSI</p>
     <p>Student ID: D3295977 </p>
-    <p>Course Title: INTERACTIVE VISUALIZATION</p>
-
     <div id="chart-container"></div>
     <button id="shuffle-btn">Shuffle</button>
     <button id="stop-btn">Stop</button>
@@ -75,6 +88,8 @@
     </select>
     <!-- Tooltip -->
     <div class="tooltip" id="tooltip" style="opacity: 0;"></div>
+    <!-- Table for deaths by continent -->
+    <div id="table-container"></div>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script>
         // Define dimensions for the chart
@@ -221,18 +236,6 @@
                         tooltip.transition()
                             .duration(500)
                             .style("opacity", 0);
-                    })
-                    .on("click", function(event, d) {
-                        // Extract continent causes data for the selected cause and year
-                        const continentCauses = Object.entries(data[currentYearIndex])
-                            .filter(([key, value]) => key !== "Continent" && key !== "Year" && key !== "Number of executions (Amnesty International)" && key === d)
-                            .map(([continent, deaths]) => ({ continent, deaths }));
-
-                        // Log continentCauses to console for debugging
-                        console.log(continentCauses);
-
-                        // Update chart for continents
-                        updateChartForContinents(continentCauses);
                     });
 
                 // Update x-axis
@@ -381,18 +384,6 @@
                         tooltip.transition()
                             .duration(500)
                             .style("opacity", 0);
-                    })
-                    .on("click", function(event, d) {
-                        // Extract continent causes data for the selected cause and year
-                        const continentCauses = Object.entries(combinedData)
-                            .filter(([key, value]) => key === d)
-                            .map(([continent, deaths]) => ({ continent, deaths }));
-
-                        // Log continentCauses to console for debugging
-                        console.log(continentCauses);
-
-                        // Update chart for continents
-                        updateChartForContinents(continentCauses);
                     });
 
                 // Update x-axis
@@ -416,53 +407,6 @@
                     .attr("y", -margin.top / 2)
                     .attr("text-anchor", "middle")
                     .text(`Top 10 Causes of Death from 2010 to 2019`);
-            }
-
-            // Function to update chart for continents
-            function updateChartForContinents(continentCauses) {
-                console.log(continentCauses); // Log continentCauses to console for debugging
-                // Extract the maximum value from the data
-                const maxDeaths = Math.max(...continentCauses.map(cause => cause.deaths));
-
-                // Define scales
-                const xScale = d3.scaleLinear()
-                    .domain([0, maxDeaths])
-                    .range([0, width]);
-
-                const yScale = d3.scaleBand()
-                    .domain(continentCauses.map(d => d.continent))
-                    .range([0, height])
-                    .padding(0.1);
-
-                // Update bars with gradient fill
-                const bars = svg.selectAll(".bar")
-                    .data(continentCauses, d => d.continent);
-
-                bars.enter()
-                    .append("rect")
-                    .attr("class", "bar")
-                    .merge(bars)
-                    .transition()
-                    .duration(1000)
-                    .attr("x", 0)
-                    .attr("y", d => yScale(d.continent))
-                    .attr("width", d => xScale(d.deaths))
-                    .attr("height", yScale.bandwidth())
-                    .style("fill", (d, i) => gradientColors(i));
-
-                // Add data labels
-                svg.selectAll(".label").remove();
-                svg.selectAll(".label")
-                    .data(continentCauses, d => d)
-                    .enter()
-                    .append("text")
-                    .attr("class", "label")
-                    .attr("x", d => xScale(d.deaths) + 5)
-                    .attr("y", d => yScale(d.continent) + yScale.bandwidth() / 2)
-                    .attr("dy", "0.35em")
-                    .attr("fill", "black")
-                    .attr("font-size", "12px")
-                    .text(d => (d.deaths / 1000000).toFixed(2) + "M");
             }
         });
     </script>
