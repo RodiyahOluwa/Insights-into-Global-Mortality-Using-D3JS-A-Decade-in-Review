@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 10 Causes of Death</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .axis text {
+            font-size: 12px;
+        }
+
+        /* Increase font size for y-axis labels */
+        .y-axis text {
+            font-size: 14px;
+        }
+
+        /* Add bold and increase font size for top 3 y-axis labels */
+        .top-3 {
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        /* Add 3D effect */
+        .bar {
+            transition: all 0.5s ease; /* Add transition for smoother effect */
+        }
+
+        /* Add 3D effect on hover */
+        .bar:hover {
+            fill: #69b3a2; /* Change color on hover */
+            filter: brightness(80%); /* Reduce brightness to create shading */
+            transform: translateZ(5px); /* Translate bars along Z-axis to simulate depth */
+        }
+
+        /* Tooltip */
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            width: 80px;
+            height: 28px;
+            padding: 2px;
+            font: 14px sans-serif; /* Increased font size */
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+    <h3>TOP 10 CAUSES OF DEATH</h3>
+    <p>Name: SOLOMON AGYIRI KISSI</p>
+    <p>Student ID: D3295977 </p>
+    <p>Course Title: INTERACTIVE VISUALIZATION</p>
+
+    <div id="chart-container"></div>
+    <button id="shuffle-btn">Shuffle</button>
+    <button id="stop-btn">Stop</button>
+    <select id="year-selector">
+        <option value="all" selected disabled>Year</option>
+        <option value="2010">2010</option>
+        <option value="2011">2011</option>
+        <option value="2012">2012</option>
+        <option value="2013">2013</option>
+        <option value="2014">2014</option>
+        <option value="2015">2015</option>
+        <option value="2016">2016</option>
+        <option value="2017">2017</option>
+        <option value="2018">2018</option>
+        <option value="2019">2019</option>
+    </select>
+    <!-- Tooltip -->
+    <div class="tooltip" id="tooltip" style="opacity: 0;"></div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        // Define dimensions for the chart
+        const margin = { top: 20, right: 20, bottom: 30, left: 150 };
+        const width = 800 - margin.left - margin.right;
+        const height = 400 - margin.top - margin.bottom;
+
+        // Append SVG to the container
+        const svg = d3.select("#chart-container")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", `translate(${margin.left + 130},${margin.top + 10})`);
+
+        // Load data from JSON file
+        d3.json("Top10Causes.json").then(data => {
+            // Function to get top 10 causes for each year
+            function getTop10Causes(yearData) {
+                const top10Causes = Object.entries(yearData)
+                    .filter(([key, value]) => key !== "Continent" && key !== "Year" && key !== "Number of executions (Amnesty International)")
+                    .map(([key, value]) => ({ cause: key, deaths: value }))
+                    .sort((a, b) => b.deaths - a.deaths)
+                    .slice(0, 10);
+                return top10Causes;
+            }
+
+            // Function to sum up causes of death for all years
+            function sumUpCausesForAllYears(data) {
+                const combinedData = {};
+                data.forEach(yearData => {
+                    Object.entries(yearData).forEach(([key, value]) => {
+                        if (key !== "Continent" && key !== "Year" && key !== "Number of executions (Amnesty International)") {
+                            if (combinedData[key]) {
+                                combinedData[key] += value;
+                            } else {
+                                combinedData[key] = value;
+                            }
+                        }
+                    });
+                });
+                return combinedData;
+            }
+
+            // Get combined data for all years
+            const combinedData = sumUpCausesForAllYears(data);
+
+            // Get top 10 causes for all years
+            const top10AllCauses = getTop10Causes(combinedData);
+
+            // Store top 10 causes order for the first cycle
+            const firstCycleTop10CausesOrder = [];
+            data.slice(0, 10).forEach(yearData => {
+                const top10Causes = getTop10Causes(yearData);
+                firstCycleTop10CausesOrder.push(top10Causes.map(d => d.cause));
+            });
+
+            // Set initial year index to -1 (indicating "All")
+            let currentYearIndex = -1;
+            let animationInterval;
+
+            // Define gradient colors
+            const gradientColors = d3.scaleLinear()
+                .domain([0, 9])
+                .range(["#081d58", "#c7e9b4"]); // Blue to green gradient
+
+            // Define tooltip
+            const tooltip = d3.select("#tooltip");
+
+            // Function to update chart for each year
+            function updateChart() {
+                if (currentYearIndex === -1) {
+                    updateChartForAllCauses();
+                    return;
+                }
+
+                const currentTop10CausesOrder = firstCycleTop10CausesOrder[currentYearIndex];
+
+                // Extract the maximum value from the data
+                const maxDeaths = Math.max(...currentTop10CausesOrder.map(cause => data[currentYearIndex][cause]));
+
+                // Define scales
+                const xScale = d3.scaleLinear()
+                    .domain([0, maxDeaths])
+                    .range([0, width]);
+
+                const yScale = d3.scaleBand()
+                    .domain(currentTop10CausesOrder)
+                    .range([0, height])
+                    .padding(0.1);
+
+                // Update bars with gradient fill
+                const bars = svg.selectAll(".bar")
+                    .data(currentTop10CausesOrder, d => d);
+
+                bars.enter()
+                    .append("rect")
+                    .attr("class", "bar")
+                    .merge(bars)
+                    .transition()
+                    .duration(1000)
+                    .attr("x", 0)
+                    .attr("y", d => yScale(d))
+                    .attr("width", d => xScale(data[currentYearIndex][d]))
+                    .attr("height", yScale.bandwidth())
+                    .style("fill", (d, i) => gradientColors(i));
+
+                // Add data labels
+                svg.selectAll(".label").remove();
+                svg.selectAll(".label")
+                    .data(currentTop10CausesOrder, d => d)
+                    .enter()
+                    .append("text")
+                    .attr("class", "label")
+                    .attr("x", d => xScale(data[currentYearIndex][d]) + 5)
+                    .attr("y", d => yScale(d) + yScale.bandwidth() / 2)
+                    .attr("dy", "0.35em")
+                    .attr("fill", "black")
+                    .attr("font-size", "12px")
+                    .text(d => (data[currentYearIndex][d] / 1000000).toFixed(2) + "M");
+
+                // Add tooltip on hover
+                bars.on("mouseover", function(event, d) {
+                        d3.select(this)
+                            .style("fill", (d, i) => {
+                                if (currentTop10CausesOrder.indexOf(d) < 3) {
+                                    return "#ff0000"; // Red for top 3 causes
+                                } else {
+                                    return "#ffa500"; // Amber for other causes
+                                }
+                            });
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", .9);
+                        // Format number with commas
+                        const formattedDeaths = data[currentYearIndex][d].toLocaleString();
+                        tooltip.html(formattedDeaths)
+                            .style("left", (event.pageX) + "px")
+                            .style("top", (event.pageY - 28) + "px");
+                    })
+                    .on("mouseout", function(event, d) {
+                        d3.select(this)
+                            .style("fill", (d, i) => gradientColors(currentTop10CausesOrder.indexOf(d))); // Reset to original gradient color
+                        tooltip.transition()
+                            .duration(500)
+                            .style("opacity", 0);
+                    })
+                    .on("click", function(event, d) {
+                        // Extract continent causes data for the selected cause and year
+                        const continentCauses = Object.entries(data[currentYearIndex])
+                            .filter(([key, value]) => key !== "Continent" && key !== "Year" && key !== "Number of executions (Amnesty International)" && key === d)
+                            .map(([continent, deaths]) => ({ continent, deaths }));
+
+                        // Log continentCauses to console for debugging
+                        console.log(continentCauses);
+
+                        // Update chart for continents
+                        updateChartForContinents(continentCauses);
+                    });
+
+                // Update x-axis
+                svg.select(".x-axis").remove();
+                svg.append("g")
+                    .attr("class", "x-axis")
+                    .attr("transform", `translate(0,${height})`)
+                    .call(d3.axisBottom(xScale));
+
+                // Update y-axis
+                svg.select(".y-axis").remove();
+                svg.append("g")
+                    .attr("class", "y-axis")
+                    .call(d3.axisLeft(yScale));
+
+                // Update title
+                svg.select(".title").remove();
+                svg.append("text")
+                    .attr("class", "title")
+                    .attr("x", width / 2)
+                    .attr("y", -margin.top / 2)
+                    .attr("text-anchor", "middle")
+                    .text(`Top 10 Causes of Death in ${data[currentYearIndex].Year}`);
+            }
+
+            // Function to start animation
+            function startAnimation() {
+                animationInterval = setInterval(() => {
+                    if (currentYearIndex === -1) {
+                        currentYearIndex = 0;
+                    } else {
+                        currentYearIndex = (currentYearIndex + 1) % (firstCycleTop10CausesOrder.length);
+                    }
+                    updateChart();
+                }, 2000);
+            }
+
+            // Function to stop animation
+            function stopAnimation() {
+                clearInterval(animationInterval);
+            }
+
+            // Initial call to start animation
+            startAnimation();
+
+            // Event listener for shuffle button
+            document.getElementById("shuffle-btn").addEventListener("click", () => {
+                stopAnimation();
+                startShuffleAnimation();
+            });
+
+            // Function to start shuffle animation
+            function startShuffleAnimation() {
+                animationInterval = setInterval(() => {
+                    currentYearIndex = Math.floor(Math.random() * (firstCycleTop10CausesOrder.length + 1));
+                    updateChart();
+                }, 2000);
+            }
+
+            // Event listener for stop button
+            document.getElementById("stop-btn").addEventListener("click", () => {
+                stopAnimation();
+            });
+
+            // Event listener for year selector
+            document.getElementById("year-selector").addEventListener("change", (event) => {
+                const selectedYear = event.target.value;
+                if (selectedYear === "all") {
+                    stopAnimation();
+                    currentYearIndex = -1;
+                    updateChart();
+                } else {
+                    stopAnimation();
+                    currentYearIndex = parseInt(selectedYear) - 2010;
+                    updateChart();
+                }
+            });
+
+            // Function to update chart for all causes
+            function updateChartForAllCauses() {
+                // Extract the maximum value from the data
+                const maxDeaths = Math.max(...top10AllCauses.map(cause => cause.deaths));
+
+                // Define scales
+                const xScale = d3.scaleLinear()
+                    .domain([0, maxDeaths])
+                    .range([0, width]);
+
+                const yScale = d3.scaleBand()
+                    .domain(top10AllCauses.map(d => d.cause))
+                    .range([0, height])
+                    .padding(0.1);
+
+                // Update bars with gradient fill
+                const bars = svg.selectAll(".bar")
+                    .data(top10AllCauses, d => d.cause);
+
+                bars.enter()
+                    .append("rect")
+                    .attr("class", "bar")
+                    .merge(bars)
+                    .transition()
+                    .duration(1000)
+                    .attr("x", 0)
+                    .attr("y", d => yScale(d.cause))
+                    .attr("width", d => xScale(d.deaths))
+                    .attr("height", yScale.bandwidth())
+                    .style("fill", (d, i) => gradientColors(i));
+
+                // Add data labels
+                svg.selectAll(".label").remove();
+                svg.selectAll(".label")
+                    .data(top10AllCauses, d => d)
+                    .enter()
+                    .append("text")
+                    .attr("class", "label")
+                    .attr("x", d => xScale(d.deaths) + 5)
+                    .attr("y", d => yScale(d.cause) + yScale.bandwidth() / 2)
+                    .attr("dy", "0.35em")
+                    .attr("fill", "black")
+                    .attr("font-size", "12px")
+                    .text(d => (d.deaths / 1000000).toFixed(2) + "M");
+
+                // Add tooltip on hover
+                bars.on("mouseover", function(event, d) {
+                        d3.select(this)
+                            .style("fill", (d, i) => {
+                                if (top10AllCauses.indexOf(d) < 3) {
+                                    return "#ff0000"; // Red for top 3 causes
+                                } else {
+                                    return "#ffa500"; // Amber for other causes
+                                }
+                            });
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", .9);
+                        // Format number with commas
+                        const formattedDeaths = d.deaths.toLocaleString();
+                        tooltip.html(formattedDeaths)
+                            .style("left", (event.pageX) + "px")
+                            .style("top", (event.pageY - 28) + "px");
+                    })
+                    .on("mouseout", function(event, d) {
+                        d3.select(this)
+                            .style("fill", (d, i) => gradientColors(top10AllCauses.indexOf(d))); // Reset to original gradient color
+                        tooltip.transition()
+                            .duration(500)
+                            .style("opacity", 0);
+                    })
+                    .on("click", function(event, d) {
+                        // Extract continent causes data for the selected cause and year
+                        const continentCauses = Object.entries(combinedData)
+                            .filter(([key, value]) => key === d)
+                            .map(([continent, deaths]) => ({ continent, deaths }));
+
+                        // Log continentCauses to console for debugging
+                        console.log(continentCauses);
+
+                        // Update chart for continents
+                        updateChartForContinents(continentCauses);
+                    });
+
+                // Update x-axis
+                svg.select(".x-axis").remove();
+                svg.append("g")
+                    .attr("class", "x-axis")
+                    .attr("transform", `translate(0,${height})`)
+                    .call(d3.axisBottom(xScale));
+
+                // Update y-axis
+                svg.select(".y-axis").remove();
+                svg.append("g")
+                    .attr("class", "y-axis")
+                    .call(d3.axisLeft(yScale));
+
+                // Update title
+                svg.select(".title").remove();
+                svg.append("text")
+                    .attr("class", "title")
+                    .attr("x", width / 2)
+                    .attr("y", -margin.top / 2)
+                    .attr("text-anchor", "middle")
+                    .text(`Top 10 Causes of Death from 2010 to 2019`);
+            }
+
+            // Function to update chart for continents
+            function updateChartForContinents(continentCauses) {
+                console.log(continentCauses); // Log continentCauses to console for debugging
+                // Extract the maximum value from the data
+                const maxDeaths = Math.max(...continentCauses.map(cause => cause.deaths));
+
+                // Define scales
+                const xScale = d3.scaleLinear()
+                    .domain([0, maxDeaths])
+                    .range([0, width]);
+
+                const yScale = d3.scaleBand()
+                    .domain(continentCauses.map(d => d.continent))
+                    .range([0, height])
+                    .padding(0.1);
+
+                // Update bars with gradient fill
+                const bars = svg.selectAll(".bar")
+                    .data(continentCauses, d => d.continent);
+
+                bars.enter()
+                    .append("rect")
+                    .attr("class", "bar")
+                    .merge(bars)
+                    .transition()
+                    .duration(1000)
+                    .attr("x", 0)
+                    .attr("y", d => yScale(d.continent))
+                    .attr("width", d => xScale(d.deaths))
+                    .attr("height", yScale.bandwidth())
+                    .style("fill", (d, i) => gradientColors(i));
+
+                // Add data labels
+                svg.selectAll(".label").remove();
+                svg.selectAll(".label")
+                    .data(continentCauses, d => d)
+                    .enter()
+                    .append("text")
+                    .attr("class", "label")
+                    .attr("x", d => xScale(d.deaths) + 5)
+                    .attr("y", d => yScale(d.continent) + yScale.bandwidth() / 2)
+                    .attr("dy", "0.35em")
+                    .attr("fill", "black")
+                    .attr("font-size", "12px")
+                    .text(d => (d.deaths / 1000000).toFixed(2) + "M");
+            }
+        });
+    </script>
+</body>
+</html>

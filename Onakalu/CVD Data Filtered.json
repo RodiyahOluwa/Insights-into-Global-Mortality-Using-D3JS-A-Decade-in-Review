@@ -1,0 +1,10092 @@
+[
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 54347
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 54868
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 55274
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 55932
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 56875
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 57970
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 53934
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 59553
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 60893
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 61995
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 9748
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 10142
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 10446
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 10800
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 11275
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 11754
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 12053
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 12345
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 12629
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 12904
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 74239
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 76392
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 78530
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 80572
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 83376
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 86306
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 88545
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 91371
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 94824
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 97931
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 104
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 106
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 109
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 111
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 114
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 116
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 119
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 121
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 123
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 125
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 141
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 141
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 144
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 147
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 150
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 155
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 158
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 163
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 166
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 169
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 19340
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 19923
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 20537
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 21009
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 21149
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 21887
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 22606
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 23571
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 24627
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 25724
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 171
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 174
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 175
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 178
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 184
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 187
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 191
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 194
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 197
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 200
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 91734
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 92474
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 92630
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 93311
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 93640
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 95955
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 100391
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 101975
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 100742
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 101725
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 13493
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 13432
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 13268
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 12927
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 12911
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 13198
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 13194
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 13391
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 13489
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 13507
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 44759
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 44991
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 44416
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 44255
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 45146
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 46230
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 46468
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 47986
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 50065
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 51615
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 30655
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 30832
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 31298
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 31432
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 31571
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 32310
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 32169
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 31875
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 32332
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 32998
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 38294
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 39148
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 39799
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 40438
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 41339
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 41528
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 42389
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 43086
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 42028
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 42138
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 669
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 684
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 691
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 703
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 725
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 759
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 787
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 811
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 839
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 869
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 862
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 876
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 884
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 883
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 899
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 955
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 1021
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 1104
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 1176
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 1271
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 252054
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 243361
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 238443
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 245834
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 268859
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 279014
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 260732
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 301659
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 313376
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 324764
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 706
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 720
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 728
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 750
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 773
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 793
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 814
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 835
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 863
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 905
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 81911
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 83777
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 76747
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 76561
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 76058
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 76881
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 75549
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 76577
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 75197
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 75339
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 31700
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 31534
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 31817
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 31680
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 30934
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 31652
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 31413
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 32118
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 32887
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 33627
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 330
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 337
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 340
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 352
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 372
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 388
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 400
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 416
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 444
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 464
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 8998
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 9325
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 9613
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 9884
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 10086
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 10453
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 10661
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 10953
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 11137
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 11418
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 162
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 166
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 170
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 177
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 182
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 187
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 193
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 198
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 204
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 209
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 983
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 1008
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 1033
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 1056
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 1080
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 1105
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 1128
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 1153
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 1181
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 1208
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 12358
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 12804
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 13200
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 13627
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 14042
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 14418
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 14779
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 15127
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 15537
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 15905
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 16825
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 17237
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 17183
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 17395
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 17705
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 18455
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 18354
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 18446
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 18683
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 18828
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 2894
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 3013
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 3074
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 3253
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 2964
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 3137
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 3201
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 3343
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 3434
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 3519
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 340876
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 346499
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 347193
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 351474
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 355512
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 363287
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 375893
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 377468
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 386886
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 397993
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 377
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 383
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 390
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 407
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 421
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 436
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 453
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 472
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 491
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 508
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 78239
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 77662
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 76151
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 74624
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 76808
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 76745
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 76814
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 76978
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 78759
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 79119
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 16924
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 17225
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 17803
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 18427
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 18949
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 19870
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 20400
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 21148
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 21797
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 22151
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 8498
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 8724
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 8970
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 9145
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 9318
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 9547
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 9740
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 10030
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 10468
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 10804
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 22564
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 23410
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 24179
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 24962
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 25734
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 26558
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 27398
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 28304
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 29323
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 30313
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 21515
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 22200
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 22835
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 23423
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 23917
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 24650
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 24881
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 25300
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 25951
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 26491
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 68029
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 67580
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 68155
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 68846
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 70379
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 71553
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 73558
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 75546
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 79970
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 82644
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 695
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 729
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 749
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 762
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 791
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 832
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 894
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 917
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 1084
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 1073
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 5976
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 6146
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 6252
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 6402
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 6506
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 6673
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 6796
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 6931
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 7069
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 7210
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 12638
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 11362
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 11628
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 11902
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 12093
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 12305
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 12897
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 13201
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 13541
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 13837
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 25449
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 25568
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 25914
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 26372
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 26579
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 27087
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 27170
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 28370
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 29266
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 30115
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 3831636
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 3937801
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 3973790
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 4049045
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 4120839
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 4180060
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 4292981
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 4378469
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 4459245
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 4584273
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 58524
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 57421
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 58415
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 59367
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 60498
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 63204
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 65354
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 67386
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 70281
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 72629
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 890
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 923
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 950
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 975
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 1036
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 1059
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 1081
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 1107
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 1119
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 1143
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 5505
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 5611
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 5796
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 5965
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 6152
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 6285
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 6442
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 6634
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 6865
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 7096
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 5127
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 5036
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 5153
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 5306
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 5454
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 5719
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 6086
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 6296
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 6496
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 6664
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 19018
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 19448
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 19918
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 20586
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 20946
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 21422
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 21285
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 21492
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 22129
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 22376
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 24314
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 24015
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 23852
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 23260
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 23526
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 24640
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 23344
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 23939
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 24257
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 24721
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 33889
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 32388
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 33478
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 34308
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 35492
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 37170
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 37559
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 39648
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 40510
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 39755
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 2714
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 2672
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 2651
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 2665
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 2729
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 2799
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 2810
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 2860
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 2974
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 3112
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 48754
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 49113
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 49156
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 49017
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 48111
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 49031
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 48976
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 49510
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 51108
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 51294
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 73336
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 75214
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 76980
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 78068
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 79431
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 80566
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 82152
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 84106
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 87204
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 89906
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 15291
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 14681
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 14343
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 14076
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 13837
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 13871
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 14307
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 14668
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 14986
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 15330
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 831
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 871
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 912
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 952
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 976
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 1025
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 1065
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 1121
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 1183
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 1240
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 232
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 233
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 235
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 237
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 239
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 240
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 239
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 239
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 240
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 242
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 20355
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 20901
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 22242
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 23891
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 25223
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 26439
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 26925
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 26911
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 26955
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 27140
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 16791
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 16936
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 17911
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 18703
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 19146
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 19221
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 20062
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 20810
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 21330
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 21464
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 219382
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 221812
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 236288
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 251445
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 255662
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 231012
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 229434
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 254927
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 259239
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 263873
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 7525
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 7845
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 7551
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 8124
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 8896
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 9073
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 9087
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 9273
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 9456
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 9695
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 699
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 774
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 730
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 747
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 756
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 812
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 859
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 897
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 931
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 960
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 5153
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 5275
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 5431
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 5578
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 5705
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 5892
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 6045
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 6233
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 6446
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 6660
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 7720
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 7795
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 7757
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 7602
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 7673
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 7510
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 7810
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 7977
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 8125
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 8201
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 1452
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 1433
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 1435
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 1434
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 1430
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 1433
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 1441
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 1457
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 1483
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 1519
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 61463
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 62813
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 64155
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 65156
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 66729
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 68412
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 70165
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 72151
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 74607
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 76975
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 2237
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 2274
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 2321
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 2366
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 2421
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 2472
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 2516
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 2565
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 2603
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 2642
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 22765
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 22836
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 23045
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 23214
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 23336
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 23473
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 23815
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 24362
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 24871
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 25383
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 147786
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 147571
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 149170
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 148281
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 146793
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 151427
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 152387
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 157291
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 161856
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 166496
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 2237
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 2268
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 2271
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 2276
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 2301
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 2349
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 2399
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 2454
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 2501
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 2541
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 1946
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 1925
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 1879
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 2032
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 2189
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 2222
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 2343
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 2489
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 2537
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 2603
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 33273
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 32700
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 31229
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 29960
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 29463
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 29325
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 30218
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 30238
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 29969
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 29709
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 319114
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 318181
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 323295
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 330674
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 331809
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 345971
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 349510
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 350343
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 355562
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 364285
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 31162
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 32071
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 32837
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 33638
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 34446
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 35860
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 36915
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 37991
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 38648
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 39650
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 47087
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 48147
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 49105
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 47887
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 47176
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 48018
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 48832
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 50809
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 54042
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 55921
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 109
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 111
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 112
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 112
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 113
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 113
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 116
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 119
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 121
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 123
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 237
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 237
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 229
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 234
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 239
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 241
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 257
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 258
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 261
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 263
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 338
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 343
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 362
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 385
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 403
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 417
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 432
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 444
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 454
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 474
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 11130
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 11788
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 12303
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 12837
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 13352
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 13889
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 14386
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 14776
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 15251
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 15882
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 13871
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 14022
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 14176
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 14307
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 14479
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 14680
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 14657
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 14614
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 14650
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 14547
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 1930
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 1957
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 1987
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 2018
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 2055
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 2100
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 2135
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 2166
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 2183
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 2214
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 2131
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 2150
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 2204
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 2221
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 2281
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 2292
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 2322
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 2362
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 2404
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 2430
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 21647
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 22077
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 22631
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 23152
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 23691
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 24296
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 24801
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 25322
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 25921
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 26468
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 10559
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 11617
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 12737
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 13055
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 13310
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 13586
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 13893
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 14242
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 14619
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 15015
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 60907
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 60769
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 60657
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 59632
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 60026
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 61730
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 60133
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 61561
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 62751
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 61818
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 669
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 673
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 681
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 678
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 659
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 671
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 678
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 688
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 701
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 724
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 2119847
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 2200623
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 2289079
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 1942316
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 2033996
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 2232102
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 2350151
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 2409773
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 2508204
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 2574410
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 573039
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 603096
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 614602
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 527322
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 540490
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 558106
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 587184
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 626883
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 639224
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 651481
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 140466
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 141549
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 143509
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 147346
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 151443
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 157398
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 161815
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 166375
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 169009
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 173601
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 61448
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 62570
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 63548
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 64463
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 65672
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 67627
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 69311
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 71411
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 75358
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 79952
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 8991
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 9254
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 9393
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 9457
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 9436
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 9616
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 9685
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 9851
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 10094
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 10347
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 10307
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 10571
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 10581
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 10658
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 10737
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 11063
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 11174
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 11553
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 12034
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 12393
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 210138
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 213028
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 214765
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 212517
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 212651
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 221430
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 219535
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 224147
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 231365
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 236507
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 5124
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 5490
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 5219
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 5394
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 6001
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 6126
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 6119
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 6197
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 6294
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 6457
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 317823
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 330433
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 332417
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 333175
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 336271
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 342935
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 327390
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 348546
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 361221
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 372483
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 8052
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 8600
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 6618
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 6962
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 7263
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 7549
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 9312
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 10053
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 10926
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 11798
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 77003
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 75549
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 73706
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 71122
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 68693
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 67080
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 65951
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 63040
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 65041
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 65391
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 31578
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 32573
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 33418
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 34118
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 34946
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 35817
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 36770
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 37862
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 39220
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 40611
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 299
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 305
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 310
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 316
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 321
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 326
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 332
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 337
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 344
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 349
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": null
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": null
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": null
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": null
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": null
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": null
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": null
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": null
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 2927
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 2779
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 2738
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 2877
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 2964
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 3161
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 3408
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 3639
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 3867
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 4119
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 18139
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 17913
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 17638
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 17254
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 17341
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 17869
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 17342
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 17477
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 17290
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 17482
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 11205
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 11281
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 11418
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 11624
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 11845
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 12123
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 12390
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 12709
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 13096
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 13523
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 16627
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 16290
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 16142
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 16414
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 15979
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 15740
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 15513
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 15548
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 15702
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 15779
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 13927
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 14393
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 14796
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 15132
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 15416
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 15644
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 15843
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 16017
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 16168
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 16329
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 3986
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 3993
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 4059
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 4120
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 4151
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 4136
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 4059
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 4004
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 4000
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 4028
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 3821
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 3888
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 3991
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 4037
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 3996
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 4048
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 4066
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 4104
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 4204
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 4299
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 8624
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 8868
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 9022
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 9421
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 9961
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 10473
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 11064
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 11658
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 12210
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 12747
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 21923
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 21835
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 21766
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 22140
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 21628
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 22135
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 22068
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 21153
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 21346
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 21301
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 1262
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 1254
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 1251
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 1253
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 1236
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 1222
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 1212
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 1253
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 1290
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 1332
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 27799
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 28451
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 29119
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 29780
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 30477
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 31277
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 32217
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 33211
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 34374
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 35397
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 13020
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 13246
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 13438
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 13601
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 13826
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 14132
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 14450
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 14731
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 15181
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 15650
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 43711
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 44025
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 46359
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 48228
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 51106
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 44186
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 44765
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 53286
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 55363
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 58824
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 380
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 384
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 395
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 406
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 419
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 430
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 451
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 474
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 498
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 522
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 15491
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 15797
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 16123
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 16469
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 16849
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 17542
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 18173
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 18708
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 19138
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 19519
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 1297
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 1338
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 1357
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 1349
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 1355
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 1345
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 1390
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 1419
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 1451
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 1491
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 129
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 132
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 134
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 137
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 139
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 142
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 145
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 149
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 153
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 156
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 3307
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 3396
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 3532
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 3613
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 3589
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 3679
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 3678
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 3809
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 3873
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 3952
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 2735
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 2665
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 2712
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 2714
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 2811
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 2878
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 2993
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 3099
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 3222
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 3309
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 121289
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 123652
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 128171
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 137676
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 143034
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 146828
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 151252
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 158878
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 161559
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 167535
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 291
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 295
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 298
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 303
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 308
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 312
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 316
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 321
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 326
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 331
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 26111
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 23565
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 23565
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 22990
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 23998
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 25116
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 25057
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 24145
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 24062
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 23438
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 169
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 169
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 168
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 167
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 166
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 165
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 164
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 163
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 162
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 161
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 7891
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 8023
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 8009
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 7973
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 7903
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 8060
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 8571
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 8922
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 9299
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 9806
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 3784
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 3816
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 3837
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 3902
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 3979
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 4039
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 4047
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 4066
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 4007
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 3943
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 93006
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 94564
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 96921
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 107171
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 108079
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 109198
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 110845
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 112904
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 115052
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 117034
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 26164
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 27213
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 28222
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 29036
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 29557
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 30001
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 30321
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 30736
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 31218
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 31692
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 119762
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 121071
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 121857
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 124067
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 125861
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 127955
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 130207
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 133165
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 135906
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 138139
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 3211
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 3190
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 3226
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 3282
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 3364
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 3450
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 3532
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 3607
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 3681
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 3747
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 26
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 26
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 25
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 25
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 24
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 24
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 23
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 23
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 23
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 23
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 33914
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 35537
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 37001
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 38551
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 39680
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 41124
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 42321
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 43710
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 45147
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 46501
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 37570
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 37358
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 37670
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 37725
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 37672
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 38669
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 39559
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 40577
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 41547
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 42569
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 10225
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 10420
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 10438
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 10316
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 10558
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 10673
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 10833
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 11041
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 11653
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 11948
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 6375
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 6578
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 6755
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 6951
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 7135
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 7260
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 7553
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 7714
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 8010
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 8202
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 11791
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 12282
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 12727
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 13217
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 13734
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 14796
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 15468
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 16215
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 16812
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 17201
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 146744
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 155266
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 137026
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 139912
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 143645
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 148499
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 153963
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 157966
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 160449
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 163496
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 8
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 88259
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 90209
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 91794
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 93298
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 94634
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 96119
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 97513
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 99253
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 100914
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 102586
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 12749
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 12681
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 12914
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 12751
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 13092
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 13478
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 13605
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 13769
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 13887
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 14023
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 13746
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 13777
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 13510
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 13215
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 12752
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 12516
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 12452
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 12235
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 12585
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 12724
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 5246
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 4698
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 4891
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 4979
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 5067
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 5087
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 5372
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 5372
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 5079
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 4998
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 292618
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 307223
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 313967
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 320769
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 281008
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 286459
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 300309
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 327940
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 334433
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 341108
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 54
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 55
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 55
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 56
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 58
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 59
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 60
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 62
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 63
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 65
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 5256
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 5342
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 5220
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 5278
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 5647
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 6162
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 5972
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 6339
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 6511
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 6710
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 4322
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 4407
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 4533
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 4691
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 4794
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 4857
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 4990
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 5126
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 5192
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 5318
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 11624
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 12031
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 12401
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 12700
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 13081
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 13580
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 13910
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 14431
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 15029
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 15540
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 8210
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 8209
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 8265
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 8565
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 8454
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 8677
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 9269
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 9478
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 9661
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 9912
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 24665
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 25133
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 25573
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 25939
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 25674
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 25742
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 26404
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 27352
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 28272
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 29215
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 161854
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 166853
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 172643
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 177293
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 182449
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 189416
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 193603
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 197124
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 200391
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 204311
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 161591
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 161196
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 163839
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 163399
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 160958
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 165389
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 164834
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 167725
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 171814
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 174736
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 33939
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 33379
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 33269
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 33098
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 33084
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 33416
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 34279
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 35458
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 36363
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 37353
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 7638
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 8064
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 7662
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 7916
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 7844
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 7564
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 7971
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 8260
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 8612
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 8823
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 739
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 753
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 782
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 820
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 859
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 895
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 926
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 973
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 1045
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 1121
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 147708
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 142281
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 143909
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 139231
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 143573
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 143937
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 144123
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 145611
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 147835
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 150427
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 1161661
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 1087537
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 1062214
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 1037827
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 1044400
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 1028256
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 1016533
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 977433
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 986406
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 1004931
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 8383
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 8672
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 9046
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 9299
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 9634
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 9997
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 10385
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 10783
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 11322
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 11826
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 129
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 130
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 130
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 132
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 135
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 137
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 139
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 142
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 146
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 157
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 296
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 300
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 313
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 340
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 354
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 370
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 411
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 425
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 437
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 446
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 294
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 306
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 315
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 322
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 333
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 336
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 339
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 346
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 351
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 355
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 485
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 492
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 498
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 505
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 511
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 517
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 522
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 528
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 533
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 539
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 84
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 86
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 87
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 88
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 90
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 92
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 94
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 96
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 97
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 98
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 237
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 237
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 240
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 246
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 255
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 259
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 263
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 267
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 271
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 273
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 38274
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 38295
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 38504
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 39159
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 39738
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 41019
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 41765
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 42897
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 44248
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 45837
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 12692
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 13175
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 13336
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 13718
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 14328
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 14811
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 15272
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 15432
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 15509
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 15981
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 64416
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 62683
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 62122
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 62390
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 62922
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 62673
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 60860
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 61674
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 63174
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 63769
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 212
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 208
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 213
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 213
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 214
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 219
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 226
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 231
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 236
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 242
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 7521
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 7662
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 7818
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 7907
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 7969
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 8221
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 8342
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 8583
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 8845
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 9009
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 5855
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 5963
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 6089
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 5523
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 5536
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 5674
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 5747
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 6225
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 6534
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 6810
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 26597
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 26414
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 25730
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 25272
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 24965
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 25933
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 25498
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 25984
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 26319
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 26796
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 6799
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 6855
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 6961
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 6912
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 6690
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 7047
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 7129
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 7388
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 7601
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 7797
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 1801
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 1885
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 1936
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 1983
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 2038
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 2076
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 2091
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 2156
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 2238
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 2285
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 13895
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 14303
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 14739
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 15174
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 15698
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 16256
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 16811
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 17370
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 18001
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 18521
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 84559
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 83678
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 82839
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 83018
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 85532
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 87734
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 88283
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 88159
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 83569
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 82661
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 61041
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 61418
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 62289
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 62210
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 62372
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 63793
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 65446
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 69427
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 72918
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 77481
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 6324
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 6419
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 6499
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 6666
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 6711
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 6243
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 6557
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 6797
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 6961
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 7114
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 117230
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 117880
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 118870
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 117509
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 118923
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 122974
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 123016
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 125373
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 128774
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 131493
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 41638
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 42725
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 43078
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 42539
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 43726
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 43675
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 44323
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 45150
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 45162
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 46577
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 64817
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 65279
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 66096
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 66745
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 67467
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 68545
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 69697
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 71036
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 72689
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 74371
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 1045
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 1045
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 1058
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 1122
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 1194
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 1264
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 1310
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 1351
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 1391
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 1423
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 37244
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 37068
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 36639
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 35939
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 35228
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 35144
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 35404
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 35524
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 36034
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 36087
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 22337
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 22044
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 22333
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 22417
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 22370
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 22743
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 22656
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 22937
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 23456
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 23969
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 36958
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 38157
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 38753
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 39821
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 40377
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 40295
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 41409
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 43031
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 44400
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 45682
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 32055
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 33768
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 34168
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 34414
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 36171
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 36370
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 38294
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 39297
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 39936
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 41061
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 20311
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 20866
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 20958
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 20832
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 21285
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 21852
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 22500
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 22601
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 21923
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 21856
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 43070
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 44227
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 45729
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 47104
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 47929
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 49040
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 50380
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 51769
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 53211
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 54489
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 89053
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 89282
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 89655
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 90755
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 93587
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 96931
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 102483
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 106585
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 111404
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 115830
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 1591
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 1724
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 1833
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 1932
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 2025
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 2143
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 2226
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 2315
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 2395
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 2459
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 6388
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 6546
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 6676
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 6813
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 7011
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 7329
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 7590
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 7897
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 8109
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 8361
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 4
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 167
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 169
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 171
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 173
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 174
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 175
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 176
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 177
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 178
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 178
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 3205
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 3128
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 3066
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 3235
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 3369
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 3493
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 3679
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 3798
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 3906
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 4016
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 28793
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 29299
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 29934
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 30685
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 31378
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 32116
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 32936
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 33754
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 34424
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 35007
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 151565
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 153923
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 156816
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 162746
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 166683
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 167148
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 170322
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 173393
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 173727
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 176663
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 14141
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 14609
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 14950
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 15562
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 16113
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 16630
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 17002
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 17309
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 17971
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 18323
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 39
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 40
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 40
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 40
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 41
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 41
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 41
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 42
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 42
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 42
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 21850
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 22259
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 22920
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 23868
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 24623
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 25137
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 25943
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 26404
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 27374
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 28149
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 434107
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 420293
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 420759
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 417440
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 395762
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 455290
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 442558
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 440677
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 451278
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 449376
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 4539
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 4950
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 5590
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 6138
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 4185
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 5358
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 6696
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 7314
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 7947
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 8621
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "No of CVD deaths": 178756
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "No of CVD deaths": 176730
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "No of CVD deaths": 178239
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "No of CVD deaths": 178833
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "No of CVD deaths": 176323
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "No of CVD deaths": 177307
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "No of CVD deaths": 176098
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "No of CVD deaths": 176949
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "No of CVD deaths": 184431
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "No of CVD deaths": 188113
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 820215
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 830800
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 837102
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 847344
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 858443
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 876853
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 892268
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 899212
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 929375
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 957455
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 9642
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 10008
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 9886
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 9660
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 9505
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 9613
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 9629
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 9792
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 9881
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 10003
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 101550
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 104111
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 105856
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 105614
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 105795
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 106219
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 106364
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 106915
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 107628
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 107394
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "No of CVD deaths": 631
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "No of CVD deaths": 665
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "No of CVD deaths": 689
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "No of CVD deaths": 716
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "No of CVD deaths": 742
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "No of CVD deaths": 767
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "No of CVD deaths": 793
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "No of CVD deaths": 817
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "No of CVD deaths": 843
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "No of CVD deaths": 869
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "No of CVD deaths": 41767
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "No of CVD deaths": 42996
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "No of CVD deaths": 44682
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "No of CVD deaths": 44817
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "No of CVD deaths": 46562
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "No of CVD deaths": 48257
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "No of CVD deaths": 50966
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "No of CVD deaths": 53591
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "No of CVD deaths": 56164
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "No of CVD deaths": 61510
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 211557
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 222872
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 225569
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 228957
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 207097
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 215500
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 219272
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 232646
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 236471
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 240161
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "No of CVD deaths": 40277
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "No of CVD deaths": 41648
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "No of CVD deaths": 42824
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "No of CVD deaths": 44191
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "No of CVD deaths": 45318
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "No of CVD deaths": 47307
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "No of CVD deaths": 49168
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "No of CVD deaths": 51491
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "No of CVD deaths": 53763
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "No of CVD deaths": 55752
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 12954
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 13555
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 14035
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 14583
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 15184
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 15875
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 16687
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 17172
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 17663
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 18157
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "No of CVD deaths": 16218
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "No of CVD deaths": 16091
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "No of CVD deaths": 16083
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "No of CVD deaths": 16098
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "No of CVD deaths": 16356
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "No of CVD deaths": 16649
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "No of CVD deaths": 16937
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "No of CVD deaths": 17187
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "No of CVD deaths": 17460
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "No of CVD deaths": 17810
+ }
+]

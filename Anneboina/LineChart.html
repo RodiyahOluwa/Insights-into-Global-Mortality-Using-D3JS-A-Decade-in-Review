@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Total Deaths by Year - Line Chart</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        .tooltip {
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.8);
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            pointer-events: none;
+            opacity: 0;
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+        }
+
+        .line {
+            fill: none;
+            stroke: steelblue;
+            stroke-width: 2px;
+        }
+
+        .axis text {
+            font-family: Arial, sans-serif;
+            font-size: 10px;
+        }
+
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #ddd;
+            shape-rendering: crispEdges;
+        }
+
+        .chart-container {
+            border: 2px solid #999; /* thicker border and different color */
+            border-radius: 5px;
+            padding: 10px;
+            overflow: hidden; /* prevent overflow of inner elements */
+        }
+
+        .continent-select {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            padding: 6px 8px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .continent-select:hover {
+            border-color: #aaa;
+        }
+
+        .shuffle-button {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            padding: 6px 12px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            background-color: #f0f0f0;
+            cursor: pointer;
+        }
+
+        .shuffle-button:hover {
+            background-color: #ddd;
+        }
+
+        .legend-container {
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-right: 20px;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 10px;
+            margin-right: 5px;
+            border: 1px solid #ccc; /* Add border for better visibility */
+        }
+
+        .legend-text {
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h3>TREND ANALYSIS - TOTAL DEATHS BETWEEN 2010 - 2019</h3>
+    <p>Name: PRANITH ANNEBOINA</p>
+    <p>Student ID: D3891205 </p>
+    <p>Course Title: INTERACTIVE VISUALIZATION</p>
+
+    <!-- Dropdown menu for selecting continent -->
+    <select id="continent-select" class="continent-select">
+        <option value="All">All Continents</option>
+        <option value="Asia">Asia</option>
+        <option value="Europe">Europe</option>
+        <option value="Africa">Africa</option>
+        <option value="NorthAmerica">North America</option>
+        <option value="SouthAmerica">South America</option>
+        <option value="Oceania">Oceania</option>
+    </select>
+
+    <!-- Button to shuffle the chart -->
+    <button id="shuffle-button" class="shuffle-button">Shuffle Chart</button>
+
+    <!-- Container for the chart -->
+    <div class="chart-container">
+        <svg id="chart"></svg>
+    </div>
+
+    <!-- Container for the legend -->
+    <div id="legend" class="legend-container"></div>
+
+    <script>
+        const margin = { top: 50, right: 50, bottom: 50, left: 80 };
+        const containerWidth = window.innerWidth * 0.8;
+        const containerHeight = window.innerHeight * 0.6;
+        const width = containerWidth - margin.left - margin.right;
+        const height = containerHeight - margin.top - margin.bottom;
+
+        const svg = d3.select("#chart")
+            .attr("width", containerWidth)
+            .attr("height", containerHeight)
+            .append("g")
+            .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+        // Read data and plot
+        d3.json("Total Deatths Filtered_Line chart.json").then(function(data) {
+            // Function to filter data by continent
+            function filterDataByContinent(continent) {
+                return continent === "All" ? data : data.filter(d => d.Continent === continent);
+            }
+
+            const years = Array.from(new Set(data.map(d => d.Year))).sort((a, b) => a - b); // Sort years
+
+            // Define color scale for circles
+            const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+
+            // Function to update chart based on selected continent
+            function updateChart(continent) {
+                const filteredData = filterDataByContinent(continent);
+
+                const totalDeathsByYear = years.map(year => ({
+                    Year: year,
+                    TotalDeaths: d3.sum(filteredData.filter(d => d.Year === year), d => d["Total Deaths"])
+                }));
+
+                const xScale = d3.scaleLinear()
+                    .domain(d3.extent(years))
+                    .range([0, width]);
+
+                const yScale = d3.scaleLinear()
+                    .domain([0, d3.max(totalDeathsByYear, d => d.TotalDeaths) + 2000000])
+                    .range([height, 0]);
+
+                // Remove previous elements before updating
+                svg.selectAll("*").remove();
+
+                // Add line path
+                svg.append("path")
+                    .datum(totalDeathsByYear)
+                    .attr("class", "line")
+                    .attr("d", d3.line()
+                        .x(d => xScale(d.Year))
+                        .y(d => yScale(d.TotalDeaths))
+                    )
+                    .attr("stroke", "steelblue")
+                    .attr("stroke-width", 2)
+                    .attr("fill", "none")
+                    .transition()
+                    .duration(800)
+                    .ease(d3.easeLinear);
+
+                // Add circles for data points
+                svg.selectAll("circle")
+                    .data(totalDeathsByYear)
+                    .enter().append("circle")
+                    .attr("cx", d => xScale(d.Year))
+                    .attr("cy", d => yScale(d.TotalDeaths))
+                    .attr("r", 6) // Make circles a bit bigger
+                    .attr("fill", (d, i) => colorScale(i)) // Different color for each year
+                    .on("mouseover", function(event, d) {
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", .9);
+                        tooltip.html(`Year: ${d.Year}<br>Total Deaths: ${d.TotalDeaths}<br>Continent: ${continent}`)
+                            .style("left", (event.pageX) + "px")
+                            .style("top", (event.pageY - 28) + "px");
+                    })
+                    .on("mouseout", function(d) {
+                        tooltip.transition()
+                            .duration(500)
+                            .style("opacity", 0);
+                    })
+                    .transition()
+                    .delay((d, i) => i * 20)
+                    .duration(800)
+                    .attr("r", 8); // Make circles a bit bigger
+
+                // Add X-axis
+                svg.append("g")
+                    .attr("transform", `translate(0, ${height})`)
+                    .call(d3.axisBottom(xScale).ticks(10).tickFormat(d3.format("d")))
+                    .selectAll("text")
+                    .attr("transform", "rotate(-45)")
+                    .style("text-anchor", "end")
+                    .attr("font-size", "10px");
+
+                // Add Y-axis
+                svg.append("g")
+                    .call(d3.axisLeft(yScale).ticks(10).tickFormat(d3.format(".2s")))
+                    .selectAll("text")
+                    .attr("font-size", "10px");
+
+                // X-axis label
+                svg.append("text")
+                    .attr("transform", `translate(${width / 2}, ${height + margin.bottom / 1.5})`)
+                    .style("text-anchor", "middle")
+                    .text("Year")
+                    .attr("font-size", "12px");
+
+                // Y-axis label
+                svg.append("text")
+                    .attr("transform", "rotate(-90)")
+                    .attr("y", 0 - margin.left)
+                    .attr("x", 0 - (height / 2))
+                    .attr("dy", "1em")
+                    .style("text-anchor", "middle")
+                    .text("Total Deaths")
+                    .attr("font-size", "12px");
+
+                // Title for the chart
+                svg.append("text")
+                    .attr("x", width / 2)
+                    .attr("y", -margin.top / 2)
+                    .attr("text-anchor", "middle")
+                    .style("font-size", "16px")
+                    .text(`Total Deaths by Year - ${continent === 'All' ? 'Worldwide' : continent}`);
+
+                // Create legend
+                const legendContainer = d3.select("#legend");
+                legendContainer.selectAll("*").remove(); // Clear existing legend
+
+                const legendItems = legendContainer.selectAll(".legend-item")
+                    .data(years)
+                    .enter().append("div")
+                    .attr("class", "legend-item");
+
+                legendItems.append("div")
+                    .attr("class", "legend-color")
+                    .style("background-color", (d, i) => colorScale(i));
+
+                legendItems.append("div")
+                    .attr("class", "legend-text")
+                    .text(d => d);
+            }
+
+            // Initial chart rendering
+            updateChart("All");
+
+            // Dropdown change event listener
+            d3.select("#continent-select").on("change", function() {
+                const selectedContinent = this.value;
+                updateChart(selectedContinent);
+            });
+
+            // Button click event listener to shuffle chart
+            d3.select("#shuffle-button").on("click", function() {
+                const continents = ["All", "Asia", "Europe", "Africa", "NorthAmerica", "SouthAmerica", "Oceania"];
+                let index = 0;
+                const shuffleInterval = setInterval(() => {
+                    updateChart(continents[index]);
+                    index = (index + 1) % continents.length;
+                }, 5000); // Change the interval time as needed
+
+                // Clear the interval after 2 seconds (adjust as needed)
+                setTimeout(() => {
+                    clearInterval(shuffleInterval);
+                }, 5000 * continents.length); // Adjust the time based on the number of continents
+            });
+        });
+
+        // Tooltip
+        const tooltip = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+    </script>
+</body>
+</html>

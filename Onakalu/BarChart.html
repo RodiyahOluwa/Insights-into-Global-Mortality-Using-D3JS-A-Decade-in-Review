@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Bar Chart with D3.js</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <h3>DEATH BY CARDIOVASCULAR DISEASE BETWEEN 2010 AND 2019</h3>
+    <p>Name: ONAKALU PRAISE OOREOLUWA</p>
+    <p>Student ID: S3051459 </p>
+    <p>Course Title: INTERACTIVE VISUALIZATION</p>
+
+    <div id="filter">
+        <label for="continent-select">Select Continent:</label>
+        <select id="continent-select"></select>
+        <button id="shuffle-button">Shuffle</button>
+    </div>
+    <div id="chart"></div>
+
+    <script>
+        // Create SVG
+        let svgWidth = 800;
+        let svgHeight = 400;
+        const margin = { top: 50, right: 50, bottom: 50, left: 150 };
+
+        const svg = d3.select("#chart")
+            .append("svg")
+            .attr("width", svgWidth + margin.left + margin.right)
+            .attr("height", svgHeight + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        // Tooltip
+        const tooltip = d3.select("#chart").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+
+        // Initialize Chart
+        function drawChart(selectedContinent) {
+            d3.json("CVD Data Filtered.json").then(function(data) {
+                // Nested data structure to store aggregated values
+                const nestedData = d3.rollup(data, v => d3.sum(v, d => d["No of CVD deaths"]), d => d.Continent, d => d.Year);
+
+                let title = "DEATH BY CARDIOVASCULAR DISEASE BETWEEN 2010 AND 2019";
+                let filteredData;
+                if (selectedContinent !== "All Continent") {
+                    filteredData = Array.from(nestedData.get(selectedContinent).entries(), ([key, value]) => ({ Continent: selectedContinent, Year: key, "No of CVD deaths": value }));
+                    title = `DEATH BY CARDIOVASCULAR DISEASE IN ${selectedContinent.toUpperCase()} BETWEEN 2010 AND 2019`;
+                } else {
+                    // For "No Filter", sum up all continents for each year
+                    filteredData = Array.from(d3.rollup(data, v => d3.sum(v, d => d["No of CVD deaths"]), d => d.Year).entries(), ([key, value]) => ({ Continent: "No Filter", Year: key, "No of CVD deaths": value }));
+                }
+
+                // Sort the data by year, ensuring that 2010 is first
+                filteredData.sort((a, b) => a.Year === 2010 ? -1 : b.Year === 2010 ? 1 : a.Year - b.Year);
+
+                const xScale = d3.scaleBand()
+                    .domain(filteredData.map(d => d.Year))
+                    .range([0, svgWidth])
+                    .padding(0.1);
+
+                const yScale = d3.scaleLinear()
+                    .domain([0, d3.max(filteredData, d => d["No of CVD deaths"])])
+                    .range([svgHeight, 0]);
+
+                const bars = svg.selectAll("rect")
+                    .data(filteredData, d => d.Year);
+
+                bars.enter()
+                    .append("rect")
+                    .attr("x", d => xScale(d.Year))
+                    .attr("y", svgHeight)
+                    .attr("width", xScale.bandwidth())
+                    .attr("height", 0)
+                    .attr("fill", (d, i) => d3.schemeCategory10[i % 10]) // Colorful Bars
+                    .on("mouseover", function(event, d) {
+                        d3.select(this)
+                            .transition()
+                            .duration(200)
+                            .attr("width", xScale.bandwidth() + 5) // Increase width
+                            .attr("x", d => xScale(d.Year) - 2.5); // Adjust x position
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", .9);
+                        tooltip.html(`Deaths: ${d["No of CVD deaths"]}`)
+                            .style("left", (event.pageX) + "px")
+                            .style("top", (event.pageY - 28) + "px");
+                    })
+                    .on("mouseout", function(d) {
+                        d3.select(this)
+                            .transition()
+                            .duration(200)
+                            .attr("width", xScale.bandwidth()) // Restore width
+                            .attr("x", d => xScale(d.Year)); // Restore x position
+                        tooltip.transition()
+                            .duration(500)
+                            .style("opacity", 0);
+                    })
+                    .transition()
+                    .duration(1000)
+                    .attr("y", d => yScale(d["No of CVD deaths"]))
+                    .attr("height", d => svgHeight - yScale(d["No of CVD deaths"]));
+
+                bars.transition()
+                    .duration(1000)
+                    .attr("x", d => xScale(d.Year))
+                    .attr("y", d => yScale(d["No of CVD deaths"]))
+                    .attr("width", xScale.bandwidth())
+                    .attr("height", d => svgHeight - yScale(d["No of CVD deaths"]));
+
+                bars.exit().remove();
+
+                // X-axis
+                svg.selectAll(".x-axis").remove();
+                svg.append("g")
+                    .attr("class", "x-axis")
+                    .attr("transform", "translate(0, " + svgHeight + ")")
+                    .call(d3.axisBottom(xScale));
+
+                // X-axis label
+                svg.append("text")
+                    .attr("class", "x-label")
+                    .attr("x", svgWidth / 2)
+                    .attr("y", svgHeight + margin.bottom - 10)
+                    .style("text-anchor", "middle")
+                    .text("Year");
+
+                // Y-axis
+                svg.selectAll(".y-axis").remove();
+                svg.append("g")
+                    .attr("class", "y-axis")
+                    .call(d3.axisLeft(yScale));
+
+                // Y-axis label
+                svg.append("text")
+                    .attr("class", "y-label")
+                    .attr("transform", "rotate(-90)")
+                    .attr("x", -((svgHeight - 50) / 2))
+                    .attr("y", -margin.left / 2)
+                    .style("text-anchor", "middle")
+                    .text("Number of Deaths");
+
+                // Chart title
+                svg.selectAll(".chart-title").remove();
+                svg.append("text")
+                    .attr("class", "chart-title")
+                    .attr("x", svgWidth / 2)
+                    .attr("y", -margin.top / 2)
+                    .attr("text-anchor", "middle")
+                    .text(title);
+            });
+        }
+
+        // Dropdown menu
+        const dropdown = d3.select("#continent-select")
+            .on("change", function() {
+                const selectedContinent = d3.select(this).property("value");
+                drawChart(selectedContinent);
+            });
+
+        // Fetch unique continents from dataset and populate dropdown
+        d3.json("CVD Data Filtered.json").then(function(data) {
+            const uniqueContinents = ["All Continent", ...Array.from(new Set(data.map(d => d.Continent)))];
+            dropdown.selectAll("option")
+                .data(uniqueContinents)
+                .enter()
+                .append("option")
+                .text(d => d);
+
+            // Initial drawing
+            drawChart(uniqueContinents[0]);
+        });
+
+        // Shuffle button
+        const shuffleButton = d3.select("#shuffle-button")
+            .on("click", function() {
+                const continents = d3.selectAll("#continent-select option")
+                    .nodes()
+                    .map(option => option.value)
+                    .slice(1); // Exclude "All Continent" option
+                shuffleCharts(continents);
+            });
+
+        // Shuffle function
+        function shuffleCharts(continents) {
+            continents.forEach((continent, index) => {
+                setTimeout(() => {
+                    drawChart(continent);
+                }, index * 3000); // 3 seconds delay for each continent
+            });
+        }
+    </script>
+    <style>
+        .tooltip {
+            position: absolute;
+            background-color: white;
+            padding: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+            pointer-events: none;
+            opacity: 0;
+        }
+    </style>
+</body>
+</html>

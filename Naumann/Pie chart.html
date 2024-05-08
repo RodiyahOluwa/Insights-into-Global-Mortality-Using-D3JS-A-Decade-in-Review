@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Mortality Rates by Continent</title>
+   <script src="https://d3js.org/d3.v7.min.js"></script>
+   <style>
+        .slice {
+            transition: transform 0.2s ease-in-out;
+        }
+        .tooltip {
+            position: absolute;
+            background-color: white;
+            border: solid;
+            border-width: 1px;
+            padding: 5px;
+            border-radius: 5px;
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+    <h3>Total Mortality Rate by Continent</h3>
+    <p>Name: Syed Nauman</p>
+    <p>Student ID: C2931614</p>
+    <p>Course Title: Interactive Visualization</p>
+    <div id="chart-container" style="display: flex;">
+        <div id="pie-chart"></div>
+        <div id="legend-container"></div>
+    </div>
+    <div class="tooltip"></div>
+    <script>
+        // Load data from JSON file
+        d3.json("pie data json.json").then(data => {
+            // Group data by continent and calculate total mortality rate for each continent
+            const continentData = d3.rollups(
+                data,
+                v => d3.sum(v, d => d["Total Mortality"]),
+                d => d["Continent"]
+            );
+
+            // Create color scale for continents
+            const color = d3.scaleOrdinal()
+                .domain(continentData.map(d => d[0]))
+                .range(d3.schemeCategory10);
+
+            // Set dimensions and create SVG element
+            const width = 800;
+            const height = 600;
+            const radius = Math.min(width, height) / 2;
+
+            const svg = d3.select("#pie-chart")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", `translate(${width / 2},${height / 2})`);
+
+            // Create pie layout
+            const pie = d3.pie()
+                .value(d => d[1]);
+
+            // Generate pie chart data
+            const pieData = pie(continentData);
+
+            // Draw arcs for each slice
+            const arcs = svg.selectAll("slices")
+                .data(pieData)
+                .enter()
+                .append('path')
+                .attr('d', d3.arc()
+                    .innerRadius(0)
+                    .outerRadius(radius)
+                )
+                .attr('fill', d => color(d.data[0]))
+                .attr("stroke", "black")
+                .style("stroke-width", "2px")
+                .attr("class", "slice") // Add class for styling and selection
+                .on("mouseover", function(event, d) {
+                    const percentage = Math.round((d.endAngle - d.startAngle) / (2 * Math.PI) * 100);
+                    const tooltip = d3.select(".tooltip");
+                    const tooltipContent = `${d.data[0]}: ${percentage}%`;
+                    tooltip.html(tooltipContent)
+                        .style("visibility", "visible");
+                    
+                    // Scale up the slice
+                    d3.select(this)
+                        .transition()
+                        .duration(200)
+                        .attr('d', d3.arc()
+                            .innerRadius(0)
+                            .outerRadius(radius * 1.1)
+                        );
+                })
+                .on("mouseout", function() {
+                    const tooltip = d3.select(".tooltip");
+                    tooltip.style("visibility", "hidden");
+                    
+                    // Reset the slice to its original size
+                    d3.select(this)
+                        .transition()
+                        .duration(200)
+                        .attr('d', d3.arc()
+                            .innerRadius(0)
+                            .outerRadius(radius)
+                        );
+                });
+
+            // Add legends
+            const legend = d3.select("#legend-container")
+                .append("svg")
+                .attr("width", 250)
+                .attr("height", height)
+                .selectAll(".legend")
+                .data(pieData)
+                .enter()
+                .append("g")
+                .attr("class", "legend")
+                .attr("transform", (d, i) => `translate(0, ${i * 20})`);
+
+            legend.append("rect")
+                .attr("x", 0)
+                .attr("width", 18)
+                .attr("height", 18)
+                .style("fill", d => color(d.data[0]));
+
+            legend.append("text")
+                .attr("x", 24)
+                .attr("y", 9)
+                .attr("dy", ".35em")
+                .text(d => d.data[0]);
+        }).catch(error => {
+            console.error("Error loading JSON file:", error);
+        });
+
+    </script>
+</body>
+</html>

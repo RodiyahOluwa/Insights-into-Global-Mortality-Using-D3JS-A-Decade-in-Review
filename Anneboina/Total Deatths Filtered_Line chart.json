@@ -1,0 +1,10092 @@
+[
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 196561
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 200377
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 202992
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 211375
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 217940
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 223718
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 196341
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 217207
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 219391
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 217641
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 17118
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 17751
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 18239
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 18791
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 19550
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 20333
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 20822
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 21295
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 21738
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 22235
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 156465
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 159788
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 163060
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 166480
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 170931
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 175464
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 178346
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 182215
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 187561
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 192286
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 310
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 315
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 320
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 331
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 334
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 339
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 347
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 350
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 355
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 361
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 505
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 489
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 495
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 505
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 516
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 532
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 545
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 561
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 576
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 587
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 178813
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 177430
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 176790
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 174466
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 170463
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 170561
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 170228
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 171905
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 172107
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 173340
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 482
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 492
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 499
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 505
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 522
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 538
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 547
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 558
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 568
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 578
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 298067
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 302437
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 305412
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 309749
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 312071
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 319105
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 332157
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 336212
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 333808
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 337052
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 27687
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 27724
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 27547
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 26949
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 27060
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 27780
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 27797
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 27851
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 27955
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 27964
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 132798
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 135195
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 135810
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 137420
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 141342
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 145315
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 146789
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 150480
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 156364
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 160895
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 73492
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 74094
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 75325
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 75879
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 76457
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 78165
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 78123
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 77779
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 78339
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 79649
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 70826
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 71945
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 72704
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 73411
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 74524
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 74767
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 75950
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 76848
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 75603
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 75923
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 2036
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 2089
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 2126
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 2154
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 2207
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 2311
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 2331
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 2383
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 2445
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 2561
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 2785
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 2842
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 2915
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 2971
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 3062
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 3213
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 3375
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 3615
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 3799
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 4062
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 764855
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 732333
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 705039
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 708535
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 736153
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 753027
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 731161
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 792183
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 808109
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 826122
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 2271
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 2307
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 2324
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 2380
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 2442
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 2501
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 2560
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 2626
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 2710
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 2853
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 134550
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 137095
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 124092
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 122159
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 120670
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 123210
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 120193
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 121680
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 120238
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 120747
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 98892
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 99727
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 101587
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 102116
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 100853
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 103033
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 102831
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 104282
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 106064
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 107942
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 1411
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 1441
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 1456
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 1505
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 1580
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 1656
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 1700
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 1751
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 1838
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 1902
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 77896
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 78030
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 79757
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 80743
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 81026
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 82943
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 83692
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 83589
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 83192
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 82530
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 447
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 455
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 465
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 479
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 492
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 506
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 517
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 531
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 547
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 557
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 3739
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 3764
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 3779
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 3810
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 3845
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 3876
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 3904
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 3933
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 3967
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 3999
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 62492
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 63826
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 65002
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 66340
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 67484
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 68509
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 69651
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 70815
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 71994
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 73224
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 34010
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 34550
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 34500
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 34999
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 35582
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 36748
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 36510
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 36607
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 37001
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 37210
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 21183
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 20627
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 20331
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 20113
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 20967
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 20231
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 20214
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 20417
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 20645
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 20774
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 1161889
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 1184438
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 1192836
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 1211077
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 1225165
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 1247532
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 1284873
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 1288552
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 1309730
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 1338790
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 1301
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 1333
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 1376
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 1443
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 1492
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 1547
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 1592
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 1652
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 1710
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 1767
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 123746
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 123157
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 121486
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 119568
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 122981
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 122749
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 122605
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 122615
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 124609
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 124815
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 168681
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 168944
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 172590
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 172971
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 172281
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 174176
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 173902
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 173275
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 173565
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 174965
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 82161
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 81483
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 80196
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 80052
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 79350
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 79412
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 78687
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 78686
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 79858
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 80411
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 100584
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 101140
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 101523
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 102458
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 103667
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 104961
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 106461
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 108234
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 110003
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 111810
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 203234
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 203323
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 200711
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 202729
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 205208
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 202963
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 202119
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 197540
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 193600
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 191270
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 222369
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 224017
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 228179
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 232198
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 238167
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 242385
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 248045
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 253871
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 266237
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 273947
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 2605
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 2656
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 2704
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 2723
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 2781
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 2862
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 2983
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 3038
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 3455
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 3428
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 68877
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 68805
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 67951
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 72429
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 73222
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 66997
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 66195
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 67610
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 64975
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 63977
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 135819
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 130657
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 131176
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 131161
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 133020
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 133344
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 136446
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 138926
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 139899
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 141252
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 93514
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 93667
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 95157
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 97213
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 98600
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 100784
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 101260
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 105175
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 108235
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 111199
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 9284671
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 9366993
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 9364614
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 9411988
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 9504226
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 9591345
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 9814226
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 9978669
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 10163943
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 10442561
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 201965
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 197647
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 199930
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 201886
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 203384
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 210703
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 216964
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 223563
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 230285
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 236162
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 4837
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 4838
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 4829
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 4767
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 4748
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 4755
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 4754
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 4795
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 4831
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 4868
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 35135
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 34760
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 35026
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 35183
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 35221
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 34732
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 34237
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 34229
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 34352
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 34533
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 18216
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 17907
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 18343
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 18925
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 19508
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 20634
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 22051
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 22616
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 23183
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 23700
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 204606
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 202516
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 197202
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 194116
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 189642
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 186034
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 180998
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 176088
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 171501
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 169974
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 50214
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 49820
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 49857
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 48698
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 49446
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 51601
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 49270
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 49999
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 50394
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 51084
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 84274
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 81683
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 85205
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 87670
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 90664
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 95092
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 96379
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 100949
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 102795
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 101353
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 6895
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 6877
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 6913
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 7025
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 7234
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 7433
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 7502
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 7610
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 7892
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 8223
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 104227
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 105182
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 105698
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 106111
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 104955
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 107198
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 107755
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 109052
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 111446
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 111660
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 625793
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 616465
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 607300
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 592118
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 577121
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 562037
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 551036
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 543825
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 528280
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 521063
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 51558
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 50509
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 50081
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 49818
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 49420
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 49561
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 50478
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 51386
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 52291
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 53219
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 6889
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 6926
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 6961
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 7015
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 7048
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 7100
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 7117
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 7130
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 7151
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 7222
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 669
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 669
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 675
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 679
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 687
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 727
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 690
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 754
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 694
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 699
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 55984
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 57417
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 60573
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 64149
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 66457
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 68824
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 69775
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 69483
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 69323
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 69497
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 78849
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 78437
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 81062
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 82677
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 83219
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 82926
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 85926
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 87573
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 89262
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 90255
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 523240
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 529465
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 552001
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 582698
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 588576
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 544840
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 540495
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 588894
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 596617
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 605194
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 33638
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 34730
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 36549
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 38116
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 41014
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 41916
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 38619
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 38990
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 39390
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 39947
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 6273
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 6559
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 6654
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 6779
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 6562
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 6827
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 6944
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 6878
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 6985
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 7179
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 42827
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 42759
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 42370
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 42294
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 42076
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 41871
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 42062
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 42087
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 42181
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 42572
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 14867
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 15155
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 15156
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 14843
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 15114
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 14849
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 15372
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 15517
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 15667
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 15720
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 16208
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 15065
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 14485
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 13829
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 13106
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 12429
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 11903
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 11557
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 11323
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 11283
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 593549
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 575945
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 563000
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 552653
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 545456
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 538094
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 532209
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 533317
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 533214
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 531103
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 6195
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 6316
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 6443
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 6526
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 6641
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 6758
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 6908
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 6968
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 7066
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 7158
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 48728
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 48995
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 49496
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 49969
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 50262
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 50591
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 51424
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 52369
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 53250
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 54194
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 500464
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 503737
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 511373
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 512839
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 511549
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 527879
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 528564
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 541990
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 553444
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 567917
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 11962
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 11983
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 11768
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 11455
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 11360
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 11366
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 11377
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 11405
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 11412
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 11440
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 12365
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 12219
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 12268
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 12417
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 12433
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 12492
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 12452
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 12490
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 12531
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 12570
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 53409
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 53246
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 52118
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 50655
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 50110
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 50197
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 51091
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 50909
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 50371
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 49823
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 826976
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 824604
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 834872
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 851607
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 855354
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 886923
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 896978
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 899932
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 912120
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 931723
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 202714
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 201586
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 199520
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 199243
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 200350
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 201409
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 201382
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 201457
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 199455
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 198854
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 104886
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 107650
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 110439
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 109631
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 110367
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 113313
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 115707
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 118150
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 123566
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 126577
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 426
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 430
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 430
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 430
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 432
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 430
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 440
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 446
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 451
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 455
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 695
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 695
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 676
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 691
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 707
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 717
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 754
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 759
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 769
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 775
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 831
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 840
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 882
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 927
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 960
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 993
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 1023
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 1047
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 1068
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 1108
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 80342
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 80785
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 81202
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 82451
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 83690
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 85184
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 87074
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 88265
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 91429
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 94106
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 108479
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 108242
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 107342
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 108555
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 108516
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 108616
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 107941
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 106302
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 104406
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 102485
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 14749
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 14501
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 14056
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 14142
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 14090
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 13810
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 13795
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 13642
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 13459
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 13298
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 6038
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 6125
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 6240
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 6251
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 6340
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 6297
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 6344
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 6433
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 6497
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 6526
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 311693
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 93105
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 88346
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 89403
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 89865
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 90735
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 91866
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 90365
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 90845
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 91652
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 40649
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 42890
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 50133
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 50466
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 51269
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 52643
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 48642
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 49586
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 50574
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 51586
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 128960
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 128080
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 127159
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 124425
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 125237
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 128222
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 125539
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 127768
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 129824
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 127864
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 1792
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 1809
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 1837
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 1846
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 1807
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 1845
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 1880
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 1921
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 1961
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 2011
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 8245949
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 8383141
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 8394954
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 8002662
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 8161275
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 8343745
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 8384453
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 8472396
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 8698038
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 8812747
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 1601373
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 1633478
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 1651775
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 1556401
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 1570587
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 1585448
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 1617768
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 1672988
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 1697245
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 1713142
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 323450
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 327069
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 331820
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 339028
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 345586
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 354581
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 357870
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 364481
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 369268
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 376080
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 146638
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 148068
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 151884
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 168589
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 195837
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 185518
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 193082
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 186297
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 159476
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 165314
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 26414
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 27256
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 27664
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 27929
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 28066
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 28598
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 28887
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 29488
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 30262
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 31031
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 36747
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 37782
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 38230
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 38672
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 40960
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 40489
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 40952
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 42039
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 43689
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 44807
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 560902
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 569441
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 576094
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 572907
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 574660
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 593942
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 590431
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 598388
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 613427
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 624571
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 15998
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 16916
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 15701
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 15892
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 17230
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 17671
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 17765
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 17977
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 18244
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 18689
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 1176100
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 1228038
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 1241591
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 1250430
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 1264009
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 1285537
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 1229287
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 1300243
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 1336522
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 1369772
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 21620
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 22933
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 17933
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 18726
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 19564
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 20348
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 24740
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 26377
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 29102
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 30127
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 153434
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 152964
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 151791
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 146776
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 143017
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 141161
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 140423
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 139158
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 140230
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 140298
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 301803
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 297159
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 293403
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 293620
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 292328
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 288578
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 284667
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 285140
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 285557
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 288177
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 1043
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 1053
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 1060
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 1069
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 1079
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 1083
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 1093
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 1103
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 1112
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 1124
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 1
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 0
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 3
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 1
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 2
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 0
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 0
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 0
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 6943
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 6479
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 6425
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 6777
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 7130
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 7593
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 8003
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 8473
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 8968
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 9512
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 37619
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 36716
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 36187
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 35653
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 35617
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 35979
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 34636
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 34718
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 34709
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 35172
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 43062
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 42355
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 42003
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 41674
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 41382
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 41427
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 41498
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 41647
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 42142
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 42478
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 28931
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 28331
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 28086
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 28530
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 27860
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 27379
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 26724
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 26714
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 26875
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 26944
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 27889
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 28835
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 29772
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 30821
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 31488
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 31869
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 32153
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 32588
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 33422
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 32951
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 33984
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 34172
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 35037
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 35617
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 35951
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 35459
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 33924
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 32538
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 32021
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 31982
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 30807
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 30709
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 30218
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 29652
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 29200
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 28918
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 28817
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 28257
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 27878
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 27883
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 21642
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 27914
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 22821
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 23449
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 29640
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 28546
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 30566
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 29126
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 29850
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 30538
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 41025
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 40479
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 40209
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 40701
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 39601
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 40291
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 40108
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 38093
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 38242
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 38058
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 3591
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 3608
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 3639
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 3672
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 3676
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 3672
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 3655
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 3760
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 3862
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 3980
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 152443
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 153474
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 153630
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 153332
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 154901
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 155035
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 154856
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 156005
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 156696
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 156962
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 140123
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 134491
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 127419
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 122007
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 118919
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 117732
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 115814
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 113460
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 112565
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 112153
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 124812
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 129170
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 136206
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 141576
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 148769
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 127773
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 130325
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 154120
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 159025
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 167733
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 1026
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 1048
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 1073
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 1101
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 1136
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 1166
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 1218
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 1270
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 1320
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 1374
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 166639
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 166644
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 171598
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 176861
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 178846
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 180688
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 185861
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 188989
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 189307
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 188502
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 3076
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 3147
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 3194
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 3221
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 3265
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 3251
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 3350
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 3423
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 3495
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 3590
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 362
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 365
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 366
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 371
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 374
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 380
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 385
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 393
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 401
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 408
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 19263
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 19293
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 19489
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 19564
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 19540
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 19728
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 19782
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 19832
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 19937
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 20187
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 8915
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 8858
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 9026
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 9063
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 9324
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 9472
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 9790
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 10090
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 10377
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 10588
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 562312
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 569132
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 582941
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 615039
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 630613
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 643395
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 663359
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 699067
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 714733
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 737402
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 808
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 817
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 825
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 835
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 850
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 868
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 875
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 888
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 905
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 918
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 49584
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 44477
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 44394
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 43143
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 44976
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 46729
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 45980
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 43619
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 43326
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 42483
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 512
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 514
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 515
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 517
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 517
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 516
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 515
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 514
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 514
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 513
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 21480
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 21774
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 21796
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 21806
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 21763
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 21956
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 22884
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 23651
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 24361
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 25272
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 6406
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 6450
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 6478
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 6583
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 6701
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 6785
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 6819
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 6860
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 6788
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 6722
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 193213
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 194391
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 197025
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 210420
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 211303
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 212173
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 213925
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 216404
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 219071
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 221658
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 261432
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 262443
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 267850
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 267591
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 261736
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 256004
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 251170
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 247377
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 246092
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 248810
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 424555
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 419517
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 414214
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 409359
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 405376
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 404577
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 403979
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 406192
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 404129
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 406449
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 19166
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 18603
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 17937
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 18027
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 18442
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 18712
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 18842
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 18906
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 18631
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 18533
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 75
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 74
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 72
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 68
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 66
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 64
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 62
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 62
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 63
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 63
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 163920
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 166098
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 168293
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 171922
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 174226
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 185799
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 179096
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 181658
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 183713
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 186383
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 127478
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 128437
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 130668
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 131396
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 131849
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 135231
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 138326
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 141161
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 144189
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 147407
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 27315
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 28143
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 28285
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 28317
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 29059
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 29435
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 29786
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 30326
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 31872
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 32652
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 23704
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 24503
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 25160
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 25819
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 26502
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 26569
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 27694
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 28072
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 28742
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 29184
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 159333
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 164301
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 167934
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 173702
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 174929
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 177542
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 177893
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 177766
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 173287
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 173915
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 1516328
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 1473052
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 1557022
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 1535016
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 1524636
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 1519214
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 1500176
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 1455083
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 1448418
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 1439500
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 18
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 211522
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 214441
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 216993
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 218928
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 220858
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 222912
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 226013
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 228373
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 231383
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 233975
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 21750
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 21625
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 22086
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 21904
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 22445
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 23039
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 23348
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 23542
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 23702
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 23924
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 38388
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 39101
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 38776
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 38596
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 37899
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 37716
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 37964
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 37651
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 38286
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 38663
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 12161
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 10856
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 11508
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 11915
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 12009
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 11927
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 12458
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 12448
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 11921
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 11760
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 1368479
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 1393560
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 1402922
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 1413100
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 1356213
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 1357522
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 1379122
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 1421935
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 1408330
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 1411894
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 168
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 171
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 170
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 174
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 178
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 182
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 186
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 190
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 193
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 201
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 13612
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 13929
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 14248
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 13372
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 14190
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 15031
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 14848
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 15155
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 15481
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 15798
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 15804
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 16127
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 16706
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 17183
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 17534
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 17710
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 18045
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 18522
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 18816
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 19224
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 52997
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 53848
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 55089
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 56090
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 56880
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 57698
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 59215
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 60742
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 62152
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 63274
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 26840
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 27075
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 27477
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 28565
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 28566
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 29299
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 31032
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 31550
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 31969
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 32583
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 134635
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 135592
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 137375
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 138542
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 138115
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 137721
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 140197
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 143332
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 146017
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 148961
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 508457
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 522508
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 537136
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 560378
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 559540
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 579636
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 589762
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 599787
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 602388
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 609754
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 367443
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 368749
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 375674
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 376011
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 371610
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 382791
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 383024
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 388076
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 395427
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 400946
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 101810
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 101700
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 102356
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 102515
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 102567
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 103625
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 106065
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 108387
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 110224
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 112505
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 27950
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 29491
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 28278
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 29070
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 28814
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 27890
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 29313
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 32469
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 31048
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 31642
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 2839
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 2944
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 3075
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 3199
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 3324
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 3394
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 3511
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 3651
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 3875
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 4131
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 262404
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 252290
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 256058
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 248694
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 257997
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 258800
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 260328
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 262884
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 265219
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 267935
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 2019797
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 1899101
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 1867171
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 1838516
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 1865301
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 1842533
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 1820720
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 1744350
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 1752517
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 1777222
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 66143
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 64902
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 64283
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 61541
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 62600
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 63707
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 65188
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 65579
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 65926
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 66525
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 380
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 387
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 392
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 401
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 411
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 421
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 429
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 440
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 453
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 483
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 963
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 968
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 1002
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 1068
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 1111
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 1151
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 1249
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 1287
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 1321
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 1347
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 798
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 823
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 846
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 890
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 910
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 927
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 939
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 952
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 968
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 981
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 1206
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 1219
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 1247
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 1247
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 1261
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 1276
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 1290
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 1303
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 1317
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 1326
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 254
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 260
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 263
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 269
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 274
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 280
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 283
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 291
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 293
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 297
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 950
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 952
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 962
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 959
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 939
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 939
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 943
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 952
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 959
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 962
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 96982
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 98091
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 99394
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 101208
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 103355
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 106329
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 108654
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 110862
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 114044
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 117663
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 82749
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 82731
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 82424
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 82204
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 83641
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 84345
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 84636
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 84972
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 83955
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 83559
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 116776
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 114812
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 114311
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 114850
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 115875
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 115860
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 112883
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 113905
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 115837
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 116590
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 661
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 660
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 677
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 690
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 699
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 719
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 739
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 756
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 770
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 784
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 69744
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 68429
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 67782
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 66666
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 65521
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 65415
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 65214
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 66232
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 64320
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 64004
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 18897
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 19378
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 19923
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 16890
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 17243
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 17924
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 18387
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 20447
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 21470
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 22420
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 52564
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 52782
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 52172
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 51697
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 51496
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 53192
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 52177
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 52970
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 53511
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 54298
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 18147
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 18196
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 18536
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 18439
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 17751
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 18662
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 18768
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 19327
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 19794
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 20219
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 5251
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 5284
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 5319
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 5394
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 5494
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 5539
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 5602
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 5668
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 5743
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 5825
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 169795
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 170237
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 152800
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 152811
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 154857
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 155688
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 160133
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 162907
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 163578
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 165347
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 634171
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 598850
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 567520
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 546499
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 544160
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 545077
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 545414
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 541730
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 515531
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 505389
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 249601
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 253515
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 258709
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 260587
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 263148
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 268224
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 274440
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 287811
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 299341
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 314049
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 79373
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 78522
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 81082
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 75540
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 72324
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 78359
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 80341
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 70538
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 68895
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 67878
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 367499
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 372722
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 377636
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 375644
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 380454
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 391835
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 392874
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 398340
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 405679
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 411986
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 125518
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 120412
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 121717
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 121446
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 124053
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 123763
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 126141
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 128201
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 128181
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 131606
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 191701
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 191198
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 187395
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 186794
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 187651
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 187088
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 186660
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 185575
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 184508
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 183251
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 3281
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 3279
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 3314
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 3469
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 3647
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 3798
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 3905
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 3995
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 4076
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 4144
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 85936
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 86406
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 86463
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 86104
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 85649
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 86408
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 87420
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 88344
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 89139
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 89366
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 59192
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 59278
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 60395
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 61115
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 61515
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 62646
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 62824
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 63509
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 64624
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 65841
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 67394
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 82191
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 130291
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 121230
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 148728
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 134206
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 127636
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 106234
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 85012
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 82895
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 144165
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 151696
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 153242
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 153802
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 160764
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 161615
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 169494
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 173809
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 177559
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 182622
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 44161
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 44717
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 44903
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 44643
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 45438
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 46292
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 47348
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 47635
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 46799
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 46868
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 373088
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 366674
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 358739
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 347145
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 336894
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 339267
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 338507
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 335832
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 330425
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 327888
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 384870
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 390322
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 395121
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 402010
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 413783
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 426748
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 446224
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 458450
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 472322
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 484832
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 6065
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 6175
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 6313
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 6466
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 6641
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 6877
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 7061
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 7208
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 7351
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 7472
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 54468
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 53851
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 53597
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 53396
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 53270
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 52955
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 52154
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 51217
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 50355
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 50253
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 7
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 8
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 9
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 9
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 616
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 621
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 626
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 629
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 635
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 636
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 637
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 638
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 639
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 641
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 9454
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 9231
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 9086
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 9469
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 9796
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 10086
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 10510
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 10777
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 11033
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 11296
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 55248
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 56203
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 57199
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 58486
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 59717
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 61052
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 62328
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 63580
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 64744
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 65797
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 371780
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 380548
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 387644
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 400640
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 410789
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 414696
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 424679
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 430086
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 433062
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 438917
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 28681
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 29365
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 29899
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 30957
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 31900
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 32615
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 32987
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 33298
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 34067
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 34475
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 97
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 98
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 98
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 99
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 100
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 100
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 101
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 102
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 102
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 104
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 271923
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 262206
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 250532
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 243964
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 239364
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 235333
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 242706
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 233420
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 225745
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 222706
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 670054
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 647812
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 649299
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 642672
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 620618
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 721082
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 699121
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 695144
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 706900
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 703434
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 16644
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 17696
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 19538
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 20870
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 15664
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 18718
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 22276
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 23810
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 25426
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 27147
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2010,
+   "Total Deaths": 533902
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2011,
+   "Total Deaths": 536254
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2012,
+   "Total Deaths": 545195
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2013,
+   "Total Deaths": 552426
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2014,
+   "Total Deaths": 552072
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2015,
+   "Total Deaths": 560444
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2016,
+   "Total Deaths": 562592
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2017,
+   "Total Deaths": 567174
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2018,
+   "Total Deaths": 584317
+ },
+ {
+   "Continent": "Europe",
+   "Year": 2019,
+   "Total Deaths": 593736
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2010,
+   "Total Deaths": 2380973
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2011,
+   "Total Deaths": 2424664
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2012,
+   "Total Deaths": 2455725
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2013,
+   "Total Deaths": 2496966
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2014,
+   "Total Deaths": 2540733
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2015,
+   "Total Deaths": 2602307
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2016,
+   "Total Deaths": 2659917
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2017,
+   "Total Deaths": 2683916
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2018,
+   "Total Deaths": 2761982
+ },
+ {
+   "Continent": "NorthAmerica",
+   "Year": 2019,
+   "Total Deaths": 2834964
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 29968
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 31031
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 31130
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 30857
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 30666
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 31062
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 31229
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 31575
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 31804
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 32117
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 194181
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 197810
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 200765
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 200528
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 201663
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 203542
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 204984
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 206040
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 207571
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 208103
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2010,
+   "Total Deaths": 1724
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2011,
+   "Total Deaths": 1774
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2012,
+   "Total Deaths": 1809
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2013,
+   "Total Deaths": 1853
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2014,
+   "Total Deaths": 1913
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2015,
+   "Total Deaths": 1960
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2016,
+   "Total Deaths": 2009
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2017,
+   "Total Deaths": 2059
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2018,
+   "Total Deaths": 2104
+ },
+ {
+   "Continent": "Oceania",
+   "Year": 2019,
+   "Total Deaths": 2153
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2010,
+   "Total Deaths": 135069
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2011,
+   "Total Deaths": 138985
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2012,
+   "Total Deaths": 145551
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2013,
+   "Total Deaths": 147172
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2014,
+   "Total Deaths": 151658
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2015,
+   "Total Deaths": 155755
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2016,
+   "Total Deaths": 160293
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2017,
+   "Total Deaths": 164002
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2018,
+   "Total Deaths": 169289
+ },
+ {
+   "Continent": "SouthAmerica",
+   "Year": 2019,
+   "Total Deaths": 181325
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 538597
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 568840
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 577667
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 588196
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 527319
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 548972
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 558842
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 598804
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 609132
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 619258
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2010,
+   "Total Deaths": 134634
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2011,
+   "Total Deaths": 136045
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2012,
+   "Total Deaths": 137682
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2013,
+   "Total Deaths": 135438
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2014,
+   "Total Deaths": 138521
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2015,
+   "Total Deaths": 145909
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2016,
+   "Total Deaths": 155832
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2017,
+   "Total Deaths": 160614
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2018,
+   "Total Deaths": 176125
+ },
+ {
+   "Continent": "Asia",
+   "Year": 2019,
+   "Total Deaths": 161494
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 127469
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 125795
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 122666
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 121463
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 120782
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 120589
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 120480
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 121399
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 120550
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 120001
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2010,
+   "Total Deaths": 161413
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2011,
+   "Total Deaths": 149614
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2012,
+   "Total Deaths": 140597
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2013,
+   "Total Deaths": 135077
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2014,
+   "Total Deaths": 132306
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2015,
+   "Total Deaths": 130079
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2016,
+   "Total Deaths": 128275
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2017,
+   "Total Deaths": 126515
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2018,
+   "Total Deaths": 123506
+ },
+ {
+   "Continent": "Africa",
+   "Year": 2019,
+   "Total Deaths": 123540
+ }
+]
